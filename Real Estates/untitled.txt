@@ -1,0 +1,14 @@
+Model Selection :_
+    1> LinearRegression
+        Mean:- -6.3311598607029564e-27
+        Std:-  6.1183355219097986e-27
+
+        
+    2> DecisionTreeRegressor
+        Mean:- -0.16079695121951235
+        Std:-  0.15474776998702694
+
+
+    3>RandomForestRegressor
+        Mean:- -0.05160627408536702
+        Std:-  0.046988287408509535
